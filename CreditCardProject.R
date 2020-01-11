@@ -16,7 +16,7 @@ set.seed(1234)
 #Import the credit card data from local
 creditData <- read_csv("C:/Users/OneCalledSyn/Desktop/creditcard.csv")
 
-#Data fram has 284,807 observations with 31 variables
+#Data frame has 284,807 observations with 31 variables
 glimpse(creditData)
 
 #Make Class a factor
